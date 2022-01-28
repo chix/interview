@@ -14,7 +14,7 @@ Hakka uses OAuth2 for authentication, you can find your credentials together wit
 curl -X POST 'https://apidev.hakka.eu/oauth/v2/token' \
   -H 'Accept: application/ld+json'\
   -H 'Content-Type: application/x-www-form-urlencoded' \
-  --data 'username=david.hounslow@hakka.eu&password=gjsM4g6qcZqanzzU&grant_type=password&client_id=38158571-1da9-11ea-b12a-525400eeb47f_3ch0ns9nb2wwsgg8gskw88sos080k04ckko4sg4sssk4g08o0w&client_secret=8d4hqi49kzk04c400oc04s0kk8owo0wgws8o40wwcsgw4cssw'
+  --data 'username=martin.kubicek@hakka.eu&password=gjsM4g6qcZqanzzU&grant_type=password&client_id=38158571-1da9-11ea-b12a-525400eeb47f_3ch0ns9nb2wwsgg8gskw88sos080k04ckko4sg4sssk4g08o0w&client_secret=8d4hqi49kzk04c400oc04s0kk8owo0wgws8o40wwcsgw4cssw'
 ```
 
 ```json
